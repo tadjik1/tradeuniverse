@@ -1,0 +1,16 @@
+{
+  "stocks": [
+    {"isin": "US0231351067", "title": "AMAZON.COM INC."},
+    {"isin": "US30303M1027", "title": "FACEBOOK INC."},
+    {"isin": "US64110L1061", "title": "NETFLIX INC."},
+    {"isin": "US0378331005", "title": "APPLE COMPUTER INC."},
+    {"isin": "DE0005140008", "title": "DEUTSCHE BANK AG NA O.N."}
+  ],
+  "etfs": [
+    {"isin": "DE0005933931", "title": "Core DAX&reg;"},
+    {"isin": "DE000A12Z322", "title": "5x Short USD Long EUR"},
+    {"isin": "DE0005933923", "title": "MDAX"},
+    {"isin": "IE00B0M62Q58", "title": "MSCI World"},
+    {"isin": "IE00B1FZS574", "title": "MSCI Turkey"}
+  ]
+}

@@ -1,4 +1,4 @@
-# trade-republic
+# tradeuniverse
 
 ## Project setup
 ```
